@@ -5,7 +5,7 @@ var CACHE_NAME = 'pwa-sample-caches';
 var urlsToCache = [
     '/demo/',
     '/demo/css/style.css',
-    '/demo/drawer.js'
+    '/demo/draw.js'
 ];
 
 // インストール処理
